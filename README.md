@@ -1,13 +1,9 @@
-
-
-
-
-
-
+## Live Demo
+[Click here to try the app]https://candiceluvstech.github.io/To-do-list-app/
 
 # 📝 To-Do List App
 
-A clean and responsive to-do list application built using HTML, CSS, and JavaScript.
+A clean and responsive to-do list application built using HTML, CSS, and JavaScript
 
 This app allows users to add, complete, and delete daily tasks through a simple and interactive interface.
 
